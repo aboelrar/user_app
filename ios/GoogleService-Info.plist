@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>361171276071-eor1oc8pr11ebdg20vll1k0mr50ag679.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.361171276071-eor1oc8pr11ebdg20vll1k0mr50ag679</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>361171276071-2dgliijsgf1dtg00rbb0mj64bel3pmf4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD0kspcKCCCUdR79KqkAnGPt5Z6f38284A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>361171276071</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sixamtech.demandium</string>
+	<key>PROJECT_ID</key>
+	<string>on-demand-project</string>
+	<key>STORAGE_BUCKET</key>
+	<string>on-demand-project.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:361171276071:ios:178c333ab0730da4b45902</string>
+</dict>
+</plist>
